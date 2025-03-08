@@ -1,11 +1,3 @@
-Course: Intro to software engineering
-Assignment: PI 8 assignment 1: Introduction to Software Engineering; shopping cart system
-
-Student: Christian Mol
-Number:  2406930
-Mail:    2406930mol@zuyd.nl
-
-
 
 INSTRUCTIONS FOR PROPER VIEWING AND FILE EXTRACTION:
 
