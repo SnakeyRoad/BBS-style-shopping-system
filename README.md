@@ -1,18 +1,4 @@
 
-INSTRUCTIONS FOR PROPER VIEWING AND FILE EXTRACTION:
-
-- OPEN ZIP FILE "Assignment1_SE_CP_Mol_2406930.zip"
-
-- EXTRACT ZIP FILE IN AN EMPTY FOLDER:
-
-THIS WILL CREATE SEVERAL FOLDERS AND ONE FILE: 
-
-BUILD ARTIFACT         (Contains the build artifact compiled using my Java source code) 
-REPORT AND UML DIAGRAM (Contains my technical report in PDF format and my UML diagram) 
-SOURCE CODE            (Contains the zipped project files in .java format for importation into IDE -> /src/electronicshop/ -> Unzip into empy folder)
-README.txt             (You are here now :)
-
-
 
 
 
