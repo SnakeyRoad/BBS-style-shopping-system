@@ -7,12 +7,12 @@
 To run the build artifact in windows: press win+r, type: cmd for command prompt, navigate to directory containing the JAR file: "cd path\to\your\directory", run file using "java -jar ElectronicShopSystem.jar"
 
 To run the build artifact in Linux:   Open a new Terminal, navigate to directory containing the JAR file: "cd path\to\your\directory"
-                                                                         Set the JAR file as executeable: "chmod +x ElectronicShopSystem.jar"   
-                                                                                                  Verify: "ls -l ElectronicShopSystem.jar"      
-                                                                               Output (on my Linux Mint): "-rwxr-xr-x 1 cpm cpm 25830 Mar  7 11:37 ElectronicShopSystem.jar"                                           
-                                                                                   Output interpretation: "-rwxr-xr-x: Permissions (owner can read/write/execute, group and others can read/execute) -> correctly set as executable!
-                                                                                          Run file using: "java -jar ElectronicShopSystem.jar" 
-                                                                              See below on how to log in: "!! [[[HOW TO LOGIN]]] !!"
+Set the JAR file as executeable: "chmod +x ElectronicShopSystem.jar"
+Verify: "ls -l ElectronicShopSystem.jar"
+Output (on my Linux Mint): "-rwxr-xr-x 1 cpm cpm 25830 Mar  7 11:37 ElectronicShopSystem.jar"
+Output interpretation: "-rwxr-xr-x: Permissions (owner can read/write/execute, group and others can read/execute) -> correctly set as executable!
+Run file using: "java -jar ElectronicShopSystem.jar" 
+See below on how to Login
 
 
 - NOTES FOR BOTH WINDOWS AND LINUX:
